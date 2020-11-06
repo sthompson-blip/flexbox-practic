@@ -1,0 +1,24 @@
+{
+  "name": "flexbox-practic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthompson-blip/flexbox-practic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sthompson-blip/flexbox-practic/issues"
+  },
+  "homepage": "https://github.com/sthompson-blip/flexbox-practic#readme"
+}
